@@ -14,7 +14,12 @@
 2. **Bold 2**
 3. **Bold 3**
 ----------------------------------------
-That is so funny! :joy:
+That is so funny!
+
+:joy:
 ----------------------------------------
 ~~This could be doc file.~~
-I need to highlight these ==very important words==
+==I need to highlight these==
+==HIGHLIGHT==
+**HIGHLIGHT**
+
